@@ -23,7 +23,7 @@ if (ope == "+") {
     } else {
         resto = x % y;
         divisao = Math.floor(x / y);
-        resultado = divisao + " com resto de " + resto;
+        resultado = divisao + " com resto " + resto;
     }
 } else {
     resultado = "Use um código de operação válido"

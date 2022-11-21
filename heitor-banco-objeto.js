@@ -30,7 +30,7 @@ let banco = {
     },
 
     numeroConta() {
-        console.log("O número da conta é: "+banco.conta+"-"+banco.agencia);
+        console.log("O número da conta é: " + banco.conta);
     }
 }
 
